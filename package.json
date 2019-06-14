@@ -1,0 +1,21 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "flatten"
+  ],
+  "author": {
+    "name": "José Sousa Neto",
+    "email": "sputinykster@gmail.com",
+    "url": "https://joseneto.dev"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

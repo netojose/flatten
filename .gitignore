@@ -1,0 +1,15 @@
+# Logs
+npm-debug.log*
+
+# Code coverage directory
+coverage
+*.lcov
+
+# Dependencies folder
+node_modules/
+
+# Npm cache directory
+.npm
+
+# SO files
+.DS_Store
