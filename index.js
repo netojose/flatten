@@ -1,5 +1,5 @@
 /**
- * This is a function.
+ * Flatten an array of arbitrarily nested arrays of items into a flat array.
  *
  * @param {Array} arr Array to be flattened
  * @return {Array} Flattened array
